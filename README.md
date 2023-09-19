@@ -60,6 +60,8 @@ print("Hello world")
 ## Задание 2
 ### Написать программу Hello World на C# с запуском на Unity.
 -Установил Unity и синхронизировал с ним VS.
+
+
 ![image](https://github.com/MikhailZinovyev/DA-in-GameDev/assets/128982585/82082e1d-dd21-4604-b8c1-944ce5e314dc)
 
 
